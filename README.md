@@ -1,5 +1,5 @@
 # Gene-Co-expression-Networks
-# # _January 2021_
+## _January 2021_
 
 This is the project for a Data Science exam in Bioinformatics 
 
