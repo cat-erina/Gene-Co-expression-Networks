@@ -5,7 +5,7 @@ This is the project for a Data Science exam in Bioinformatics
 
 Autorhs: Caterina Alfano and Dario Cappelli
 
-Steps: 
+Goals: 
 - downloading expression data from the TGCA
 - computing differentially expressed genes
 - infer and analyze co-expression networks for case and control samples
